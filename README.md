@@ -9,7 +9,7 @@ This website represents refactored code to meet accessibility standards and opti
 
 ## Assets
 The following image shows a screenshot of the webpage after code refactoring:
-![Screenshot of final refactored webpage.](./assets/images/resources-screenshot.png)
+![Screenshot of final refactored webpage.](./Develop/assets/images/resources-screenshot.png)
 
 ## Website
 https://shookspear.github.io/challenge-module1/Develop/
