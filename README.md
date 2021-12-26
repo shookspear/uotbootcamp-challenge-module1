@@ -12,7 +12,7 @@ The following image shows a screenshot of the webpage after code refactoring:
 ![Screenshot of final refactored webpage.](./Develop/assets/images/resources-screenshot.png)
 
 ## Website
-https://shookspear.github.io/challenge-module1/Develop/
+https://shookspear.github.io/uotbootcamp-challenge-module1/Develop/
 
 ## Contribution
 Made by Echeta Okeke
